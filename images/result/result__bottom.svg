@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="237" viewBox="0 0 54 237">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 6.32px;
+        opacity: 0.2;
+        fill: #ffdecf;
+        text-anchor: end;
+        font-family: PTRootUI;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+    </style>
+  </defs>
+  <text id="_" data-name="!" class="cls-1" transform="translate(77.447 234.486) scale(52.831)"><tspan x="0">!</tspan></text>
+</svg>
