@@ -23,27 +23,6 @@ $(document).ready(function () {
         slidesToScroll: 1,
         dots: false,
         arrows: true,
-        responsive: [
-            {
-                breakpoint: 1025,
-                settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    arrows: true,
-                }
-            },
-            {
-                breakpoint: 769,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    arrows: false,
-                    dots: true,
-                }
-            },
-        ]
     });
     $('.slider2').slick({
         initialSlide: 0,
@@ -51,25 +30,6 @@ $(document).ready(function () {
         slidesToScroll: 1,
         dots: false,
         arrows: true,
-        responsive: [
-            {
-                breakpoint: 1025,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 1,
-                    infinite: true,
-                }
-            },
-            {
-                breakpoint: 769,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1,
-                    infinite: true,
-                    centerMode: false,
-                }
-            },
-        ]
     });
     $('.stories__slider').slick({
         initialSlide: 3,
